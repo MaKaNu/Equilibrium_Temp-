@@ -1,5 +1,5 @@
 # Equilibrium_Temp
-===================
+
 **Small helper for "climate-change-deniers"-conversations**
 
 This small programm is for everybody who struggles with climate change deniers. I recognize they often argument with a false mean temprature values. To get an argument against them, I choose the namegiving equilibrium temperature. This temperature is achieved by stable star systems. But there is one problem, the formula exculdes the atmosphere and every effect of the atmosphere. If you use this formula for the earth you can recognize, that the equilibrium temprature is -18° C. The difference between this calculated temperature is not negligible. I am not a climatologist, but I am able to recognize the correlation between this temprature difference and the greenhouse effect in our atmosphere.
