@@ -1,3 +1,5 @@
+# Copyright 2019, Matti Kaupenjohann, All rights reserved.
+
 '''
 Script for calculating Temperature of Earth 
 (For Flatearther and other idiotic guys) 
